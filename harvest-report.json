@@ -1,0 +1,1804 @@
+{
+  "schema": 1,
+  "output": "/tmp/opencode/copilot-bridge/copilot-skills",
+  "donors": [
+    {
+      "root": "/tmp/opencode/probe/awesome-copilot/skills",
+      "residual": [
+        {
+          "path": "acquire-codebase-knowledge",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "acreadiness-assess",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "acreadiness-generate-instructions",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "acreadiness-policy",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "ad-campaign-analyzer",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "add-educational-comments",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "adobe-illustrator-scripting",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "agent-architecture",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "agent-governance",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "agent-owasp-compliance",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "agent-skill-stack",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "agent-supply-chain",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "agentic-eval",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "ai-prompt-engineering-safety-review",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "ai-ready",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "ai-team-orchestration",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "anti-ui-slop",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "api-breaking-change-detector",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "appinsights-instrumentation",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "apple-appstore-reviewer",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "arch-linux-triage",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "architecture-blueprint-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "arduino-azure-iot-edge-integration",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "arize-ai-provider-integration",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "arize-annotation",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "arize-dataset",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "arize-evaluator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "arize-experiment",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "arize-instrumentation",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "arize-link",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "arize-prompt-optimization",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "arize-trace",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "aspire",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "aspnet-minimal-api-openapi",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "audit-integrity",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "automate-this",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "autoresearch",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "aws-cdk-python-setup",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "aws-cloudwatch-investigation",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "aws-cost-optimize",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "aws-resource-health-diagnose",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "aws-resource-query",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "aws-well-architected-review",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "az-cost-optimize",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "azure-architecture-autopilot",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "azure-container-registry-cli",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "azure-deployment-preflight",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "azure-developer-cli",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "azure-devops-cli",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "azure-logic-apps-standard-cli",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "azure-pricing",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "azure-resource-health-diagnose",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "azure-resource-visualizer",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "azure-role-selector",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "azure-smart-city-iot-solution-builder",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "azure-static-web-apps",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "azure-well-architected-review",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "batch-files",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "batch-script-progress",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "bench-read",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "bigquery-pipeline-audit",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "boost-prompt",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "brag-sheet",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "breakdown-epic-arch",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "breakdown-epic-pm",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "breakdown-feature-implementation",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "breakdown-feature-prd",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "breakdown-plan",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "breakdown-test",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "bug-receipt",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "bug-reproduction-brief",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "build-evidence-map",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "caption-qa",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "centos-linux-triage",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "chrome-devtools",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "cli-mastery",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "cloud-design-patterns",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "code-exemplars-blueprint-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "code-tour",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "codebase-memory-mcp",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "codeql",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "comment-code-generate-a-tutorial",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "commit-message-storyteller",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "competitor-ad-intelligence",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "containerize-aspnet-framework",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "containerize-aspnetcore",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "content-management-systems",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "context-map",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "conventional-branch",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "conventional-commit",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "convert-excel-to-md",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "convert-pdf-to-md",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "convert-plaintext-to-md",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "convert-word-to-md",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "copilot-cli-quickstart",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "copilot-instructions-blueprint-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "copilot-pr-autopilot",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "copilot-sdk",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "copilot-spaces",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "copilot-usage-metrics",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "cosmosdb-datamodeling",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "create-agentsmd",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "create-architectural-decision-record",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "create-github-action-workflow-specification",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "create-github-issue-feature-from-specification",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "create-github-issues-feature-from-implementation-plan",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "create-github-issues-for-unmet-specification-requirements",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "create-implementation-plan",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "create-llms",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "create-quarkus-project",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "create-readme",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "create-specification",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "create-spring-boot-java-project",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "create-spring-boot-kotlin-project",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "create-technical-spike",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "create-tldr-page",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "creating-oracle-to-postgres-master-migration-plan",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "creating-oracle-to-postgres-migration-bug-report",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "creating-oracle-to-postgres-migration-integration-tests",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "csharp-async",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "csharp-docs",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "csharp-mstest",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "csharp-nunit",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "csharp-tunit",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "csharp-xunit",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "cypress-flake-fixer",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "d365-solution-blueprint",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "daily-focus-board",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "daily-prep",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "data-breach-blast-radius",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "datanalysis-credit-risk",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "dataverse-python-advanced-patterns",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "dataverse-python-production-code",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "dataverse-python-quickstart",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "dataverse-python-usecase-builder",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "debian-linux-triage",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "declarative-agents",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "dependabot",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "desk-journal",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "desk-open",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "devops-rollout-plan",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "diagnose",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "doc-and-modernize",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "docs-sync-audit",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "documentation-writer",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "dotnet-best-practices",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "dotnet-design-pattern-review",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "dotnet-mcp-builder",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "dotnet-timezone",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "dotnet-upgrade",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "doublecheck",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "draw-io-diagram-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "drawio",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "editorconfig",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "ef-core",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "efcore-d2-db-diagram",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "em-dash",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "email-drafter",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "entra-agent-user",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "eval-driven-dev",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "exam-ready",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "excalidraw-diagram-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "eyeball",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "fabric-lakehouse",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "fedora-linux-triage",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "finalize-agent-prompt",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "finnish-humanizer",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "first-ask",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "flowstudio-power-automate-build",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "flowstudio-power-automate-debug",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "flowstudio-power-automate-governance",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "flowstudio-power-automate-mcp",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "flowstudio-power-automate-monitoring",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "fluentui-blazor",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "folder-structure-blueprint-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "foundry-agent-sync",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "foundry-agentic-loop",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "foundry-hosted-agent-copilotkit",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "freecad-scripts",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "from-the-other-side-anitta",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "from-the-other-side-quinn",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "from-the-other-side-vega",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "from-the-other-side-wiggins",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "game-engine",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gdpr-compliant",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gem-devops-guidelines",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gen-specs-as-issues",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "generate-custom-instructions-from-codebase",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "generate-image",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "geofeed-tuner",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gh-attach",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "git-commit",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "git-flow-branch-creator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "github-actions-efficiency",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "github-actions-hardening",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "github-actions-runtime-upgrade-conventions",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "github-codespaces-efficiency",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "github-copilot-starter",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "github-issues",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "github-release",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gitmoji",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "globestudio",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "go-mcp-server-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gsap-framer-scroll-animation",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gtm-0-to-1-launch",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gtm-ai-gtm",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gtm-board-and-investor-communication",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gtm-developer-ecosystem",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gtm-enterprise-account-planning",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gtm-enterprise-onboarding",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gtm-operating-cadence",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gtm-partnership-architecture",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gtm-positioning-strategy",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gtm-product-led-growth",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "gtm-technical-product-pricing",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "harness-engineering",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "image-annotations",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "image-manipulation-image-magick",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "impediment-prioritization",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "import-infrastructure-as-code",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "incident-postmortem",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "integrate-context-matic",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "issue-fields-migration",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "java-add-graalvm-native-image-support",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "java-debugging",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "java-development",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "java-diagnostics",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "java-docs",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "java-helidon",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "java-hibernate-jpa",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "java-junit",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "java-mcp-server-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "java-refactoring-extract-method",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "java-refactoring-remove-parameter",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "java-springboot",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "java-testcontainers",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "java-upgrade",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "javascript-typescript-jest",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "javax-to-jakarta-migration",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "kotlin-mcp-server-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "kotlin-springboot",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "landing-page-conversion-audit",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "latchshot-page-capture",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "lean-comments",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "legacy-circuit-mockups",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "linkedin-post-formatter",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "lsp-setup",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "macos-golden-gate-design",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "make-blog-post",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "make-repo-contribution",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "markdown-to-html",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "markdown-to-word-mermaid",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "markstream-install",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "mcp-cli",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "mcp-copilot-studio-server-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "mcp-create-adaptive-cards",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "mcp-create-declarative-agent",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "mcp-deploy-manage-agents",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "mcp-implementation-security-review",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "mcp-release-qa",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "mcp-security-audit",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "md-to-docx",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "meeting-minutes",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "memory-merger",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "mentoring-juniors",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "microsoft-agent-framework",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "microsoft-code-reference",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "microsoft-docs",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "microsoft-skill-creator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "microsoft-store-publisher",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "migrating-oracle-to-postgres-data-access-code",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "migrating-oracle-to-postgres-stored-procedures",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "minecraft-plugin-development",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "mini-context-graph",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "mkdocs-translations",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "msgraph-sdk",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "msstore-cli",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "multi-stage-dockerfile",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "mvvm-toolkit",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "mvvm-toolkit-di",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "mvvm-toolkit-messenger",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "namecheap",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "nano-banana-pro-openrouter",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "napkin",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "next-intl-add-language",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "noob-mode",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "npm-trusted-publishing",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "nuget-manager",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "onboard-context-matic",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "oo-component-documentation",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "openapi-to-application-code",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "optimize-simplicite-logs",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "pdftk-server",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "penpot-uiux-design",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "performance-review-writer",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "pester-migration",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "pester-should-migration",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "phoenix-cli",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "phoenix-evals",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "phoenix-tracing",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "php-mcp-server-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "pinecone-rag",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "planning-oracle-to-postgres-migration-integration-testing",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "plantuml-ascii",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "playwright-automation-fill-in-form",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "playwright-explore-website",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "playwright-generate-test",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "poka-yoke",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "postgresql-code-review",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "postgresql-optimization",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "power-apps-code-app-scaffold",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "power-bi-dax-optimization",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "power-bi-model-design-review",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "power-bi-performance-troubleshooting",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "power-bi-report-design-consultation",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "power-platform-architect",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "power-platform-mcp-connector-suite",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "powerbi-modeling",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "pr-address-feedback",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "pr-artifact-explorer",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "pr-dashboard",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "pr-screenshots",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "prd",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "premium-frontend-ui",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "project-workflow-analysis-blueprint-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "prompt-optimizer",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "protobuf-grpc-api-review",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "publish-to-pages",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "pytest-coverage",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "python-azure-iot-edge-modules",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "python-mcp-server-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "python-pypi-package-builder",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "qdrant-clients-sdk",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "qdrant-deployment-options",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "qdrant-model-migration",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "qdrant-monitoring",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "qdrant-performance-optimization",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "qdrant-scaling",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "qdrant-search-quality",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "qdrant-version-upgrade",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "quality-playbook",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "quarkus-application-development",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "quarkus-dev-services-and-testing",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "quarkus-native-and-container",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "quasi-coder",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "react-audit-grep-patterns",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "react-container-presentation-component",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "react18-batching-patterns",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "react18-dep-compatibility",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "react18-enzyme-to-rtl",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "react18-legacy-context",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "react18-lifecycle-patterns",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "react18-string-refs",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "react19-concurrent-patterns",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "react19-source-patterns",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "react19-test-patterns",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "readme-blueprint-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "rebase-current-branch",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "refactor",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "refactor-method-complexity-reduce",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "refactor-plan",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "remember",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "remember-interactive-programming",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "repo-standardizer",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "repo-story-time",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "resemble-detect",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "resx-source-generator-migration",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "review-and-refactor",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "reviewing-oracle-to-postgres-migration",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "rhino3d-scripts",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "roslyn-analyzers",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "roundup",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "roundup-setup",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "ruby-mcp-server-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "ruff-recursive-fix",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "rust-mcp-server-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "salesforce-apex-quality",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "salesforce-component-standards",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "salesforce-flow-design",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "sandbox-npm-install",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "scaffolding-oracle-to-postgres-migration-test-project",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "scoutqa-test",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "screen-recording",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "secret-scanning",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "security-review",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "semantic-kernel",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "server-side-conversion-tracking",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "setup-my-iq",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "shopify-review-triage",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "shuffle-json-data",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "signal-write",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "slang-shader-engineer",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "snowflake-semanticview",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "speak-summary",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "sponsor-finder",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "spring-boot-testing",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "sql-code-review",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "sql-object-impact-analysis",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "sql-optimization",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "sql-server-table-reconciliation",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "ssma-console",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "steno-mode",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "structured-autonomy-generate",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "structured-autonomy-implement",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "structured-autonomy-plan",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "suggest-awesome-github-copilot-agents",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "suggest-awesome-github-copilot-instructions",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "suggest-awesome-github-copilot-skills",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "swift-mcp-server-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "system-commandline-cli",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "technical-job-search",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "technology-stack-blueprint-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "terraform-azurerm-set-diff-analyzer",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "test-gap-audit",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "threat-model-analyst",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "tiny-stepping",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "tldr-prompt",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "tm7-threat-model",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "transloadit-media-processing",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "tugboat",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "typescript-mcp-server-generator",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "typespec-api-operations",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "typespec-create-agent",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "typespec-create-api-plugin",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "ui-screenshots",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "unit-test-vue-pinia",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "update-avm-modules-in-bicep",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "update-implementation-plan",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "update-llms",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "update-markdown-file-index",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "update-specification",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "upstash-redis",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "v-development",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "vardoger-analyze",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "vcpkg",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "verify-agent-action",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "vscode-ext-commands",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "vscode-ext-localization",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "web-design-reviewer",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "webapp-testing",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "webmcpify",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "what-context-needed",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "winmd-api-search",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "winui3-migration-guide",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "workiq-copilot",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "workshop-create",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "write-coding-standards-from-file",
+          "why": "directory inside a file-component layout"
+        },
+        {
+          "path": "x-twitter-scraper",
+          "why": "directory inside a file-component layout"
+        }
+      ]
+    }
+  ],
+  "hint": "entries were left behind; for guided completion run the harnessator-harvest skill in your harness, then ratify with 'harnessator harvest --commit /tmp/opencode/copilot-bridge/copilot-skills'"
+}
