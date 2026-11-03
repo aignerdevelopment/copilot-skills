@@ -3,7 +3,8 @@
 A governed **[harnessator](https://github.com/aignerdevelopment/harnessator)
 source**, produced by `harnessator harvest` from
 [github/awesome-copilot](https://github.com/github/awesome-copilot) at
-commit `5269f7e` — **448 skills, MIT licensed** (the upstream `LICENSE`
+commit `8178d19` (`v0.2.0`; first sync pinned `5269f7e` with 448) —
+**455 skills, MIT licensed** (the upstream `LICENSE`
 travels with them), content byte-identical to upstream `skills/`.
 The manifest is a schema-2 **pointer** (source format v1.1): registration is
 live via `[discover]`, so it cannot drift - the pinned ref and commit are
@@ -23,7 +24,7 @@ harnessator enable copilot-skills:quality-security   # a stack profile - see bel
 harnessator setup
 ```
 
-**Prefer a profile over `:default`.** 448 skills is a directory, not a
+**Prefer a profile over `:default`.** 455 skills is a directory, not a
 daily toolchain — each enabled skill adds its description to your
 agent's discovery index. The curated profiles are the recommended
 entry; `harnessator search <topic>` (after adding the source) is the
