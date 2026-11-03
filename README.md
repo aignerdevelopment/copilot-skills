@@ -5,7 +5,9 @@ source**, produced by `harnessator harvest` from
 [github/awesome-copilot](https://github.com/github/awesome-copilot) at
 commit `5269f7e` — **448 skills, MIT licensed** (the upstream `LICENSE`
 travels with them), content byte-identical to upstream `skills/`.
-Every component's `origin` records the exact upstream commit.
+The manifest is a schema-2 **pointer** (source format v1.1): registration is
+live via `[discover]`, so it cannot drift - the pinned ref and commit are
+recorded in `UPSTREAM.md`, refreshed by the harnessator 'Bridge refresh' workflow.
 
 Scope honesty: only the skills collection is bridged. The repo's
 `.instructions.md` / `.prompt.md` copilot-dialect files wait for
@@ -34,7 +36,7 @@ right way to cherry-pick individual skills from the rest.
 | `azure-dotnet` | Azure, dotnet, Aspire, readiness |
 | `python-stack` | python, django, flask, pandas, pytest |
 | `web-frontend` | react, next, tailwind, vite, UI |
-| `default` | all 448 - deliberately heavy, use with intent |
+| `default` | every upstream skill, live (wildcard) - deliberately heavy, use with intent |
 
 ## Update policy
 
