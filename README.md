@@ -18,7 +18,7 @@ findings (all documentation examples and one deliberate decoy).
 ## Consume it
 
 ```sh
-harnessator source add https://github.com/aignerdevelopment/copilot-skills.git --ref v0.1.0
+harnessator source add https://github.com/aignerdevelopment/copilot-skills.git --ref v0.2.0
 harnessator enable copilot-skills:quality-security   # a stack profile - see below
 harnessator setup
 ```
